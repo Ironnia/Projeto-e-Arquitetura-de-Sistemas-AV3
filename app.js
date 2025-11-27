@@ -12,7 +12,8 @@ app.use((req, res, next) => {
 // Usa as rotas definidas
 app.use('/', userRoutes);
 
-var server = app.listen(8081, function () {
+const PORT = process.env.PORT || 8081;
+var server = app.listen(PORT, function () {
    var host = server.address().address
    var port = server.address().port
    console.log("Aplicação em Camadas rodando em http://%s:%s", host, port)
