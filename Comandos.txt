@@ -5,3 +5,6 @@ node app.js
 https://dashboard.render.com/web/srv-d4k92r3uibrs73fbk13g/deploys/dep-d4k92rjuibrs73fbk1ag
 https://backend-arquitetura-de-sistemas-av3.onrender.com
 
+-=--=-=
+https://vercel.com/
+https://vercel.com/joao-victors-projects-c252404b/projeto-e-arquitetura-de-sistemas-av-3
